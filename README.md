@@ -5,5 +5,5 @@ Plusieurs etapes peuvent etre envisagées:
   1. Lorsque l'information de tarification du jour suivant est donnée on change le mode de fonctionnement pour permettre la charge durant les heures creuses en cas de jour Rouge. Si c'est un jour Bleu ou Blanc on retabli le focntionnement normal a savoir une charge exclusivement solaire.
 
 Sources:
-[Solarman integration in Home Assistant](https://github.com/davidrapan/ha-solarman)
-[RTE Tempo in Home Assistant] (https://github.com/hekmon/rtetempo)
+* [Solarman integration in Home Assistant](https://github.com/davidrapan/ha-solarman)
+* [RTE Tempo in Home Assistant](https://github.com/hekmon/rtetempo)
